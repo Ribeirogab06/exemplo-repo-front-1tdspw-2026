@@ -13,6 +13,12 @@ padding: 20px;  /*realocado dentro do }*/
     color: aqua; 
 
 }
+
+#active-link{
+    color: red;
+    background-color: darkgray;
+    border-radius: 5px;
+}
  
 
 
@@ -20,6 +26,19 @@ padding: 20px;  /*realocado dentro do }*/
     CONTAINER PRINCIPAL
 */
  
+#menu{
+background-color: crimson;
+border-radius: 5px;
+list-style: none;
+padding: 20px;
+
+
+}
+
+
+
+
+
 main{
     max-width: 1000px;
     margin: 0 auto;
