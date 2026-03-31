@@ -1,3 +1,5 @@
+ 
+ 
  body{background-color: #1a1b18;
 color:#d1d1c1 ;
 font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Verdana, sans-serif ;
@@ -6,6 +8,14 @@ margin: 0;/*adição de :*/
 padding: 20px;  /*realocado dentro do }*/
 
 };
+
+.nav-link {
+    color: aqua; 
+
+}
+ 
+
+
 /*
     CONTAINER PRINCIPAL
 */
