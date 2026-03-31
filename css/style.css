@@ -1,0 +1,16 @@
+ body{background-color: #1a1b18;
+color:#d1d1c1 ;
+font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Verdana, sans-serif ;
+line-height: 1.2;
+margin: 0;/*adição de :*/
+padding: 20px;  /*realocado dentro do }*/
+
+};
+/*
+    CONTAINER PRINCIPAL
+*/
+ 
+main{
+    max-width: 1000px;
+    margin: 0 auto;
+}
